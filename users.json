@@ -1,0 +1,10 @@
+{
+  "bob": {
+    "password": "$2b$12$pasKFhaklE/.v/5vSTNitu3EP8NRRUjLRj8Eg/Ta3VXtdVZ/p92Lu",
+    "role": "admin"
+  },
+  "alice": {
+    "password": "$2b$12$gOLdnjlh3xM9cBKdZbHVXOD2FOm0tBdfakbxhMzxvpXY7A4MJiVci",
+    "role": "user"
+  }
+}
